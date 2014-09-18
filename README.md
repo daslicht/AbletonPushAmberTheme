@@ -1,9 +1,10 @@
-AbletonPushAmberTheme
+Ableton Push AmberTheme
 =====================
 
-A smooth warm color Scheme for Ableton Push (9.1.5)
+A smooth warm color Scheme for Ableton [Push](https://www.ableton.com/push/) (9.1.5)
 
 –––
+
 
 Drum:
 ![](https://raw.githubusercontent.com/daslicht/AbletonPushAmberTheme/master/images/drum.JPG?raw=true)
